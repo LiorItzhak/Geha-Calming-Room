@@ -28,7 +28,7 @@ Records the patients' activity for later analysis
 
 ![install_room1](images/7.jpeg )
 
-![install_room8](images/7.jpeg )
+![install_room8](images/8.jpeg )
 
 ![install_room](images/18.jpeg )
 
