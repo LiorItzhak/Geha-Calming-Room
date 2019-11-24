@@ -5,7 +5,7 @@ Interactive calming-room for patients in Geha. The system controlled by a self-d
 
 ![Poster](/poster.jpg )
 
-# Kid using the Demo Alpha-Room - in Afeka campus
+# Kid using the Demo Alpha-Room - Afeka campus
 [Video - link](https://github.com/LiorItzhak/Geha-Calming-Room/raw/master/smartup-2018-nitzan-team.mp4)
 
 ![kid_demo_gif](images/kid_demo_gif1.gif)
