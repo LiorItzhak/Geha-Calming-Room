@@ -1,5 +1,5 @@
-# Geha-Calming-Room
-Interactive calming-room for patients in Geha. The system controlled by a self-designed touch-sensitive wall that allows patients to define a personalized calming environment. Alongside the calming atmosphere, the system also records the patients' activity for later analysis.
+# Calming-Room - Geha -The Mental Health Center 
+Interactive calming-room for patients in Geha (The Mental Health Center). The system controlled by a self-designed touch-sensitive wall that allows patients to define a personalized calming environment. Alongside the calming atmosphere, the system also records the patients' activity for later analysis.
 
 Most files are private
 
